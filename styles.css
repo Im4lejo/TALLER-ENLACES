@@ -1,0 +1,52 @@
+h1{
+    background-color: rgb(219, 186, 155);
+    padding: 1px;
+    border: 2px solid rgb(219, 186, 155);
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    color: rgb(168, 96, 48);
+    font-size: 40px;
+    width: 40%;
+    text-align: center;
+    margin: 20px auto;
+}
+li {
+    background-color: rgb(182, 101, 48);
+    padding: 10px;
+    border: 2px solid rgb(219, 186, 155);
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-style:normal;
+}
+body {
+    background-color: rgb(219, 186, 155);
+    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 20px;
+}
+h2 {
+    font-family: Arial, sans-serif;
+    color: rgb(168, 96, 48);
+    font-size: 30px;
+    text-align: center;
+    margin: 20px auto;
+    display: grid;
+    width: 50%;
+    border-radius: 10px;
+    border: 2px solid rgb(219, 186, 155);
+    background-color: rgb(202, 145, 70)
+    
+}
+span {
+    font-family: Arial, sans-serif;
+    color: rgb(168, 96, 48);
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+    border: 1px solid rgb(219, 186, 155);
+    background-color: rgb(219, 186, 155);
+}
